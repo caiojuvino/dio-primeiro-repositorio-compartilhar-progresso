@@ -205,3 +205,46 @@ Entrega do desafio de projeto da <a href="https://web.digitalinnovation.one/">DI
   - <a href="https://github.com/caiojuvino/dio-spring-data-jpa"> Conhecendo Spring Data JPA na prática com Java</a>
   - Avalie a Formação Java Developer
 </details>
+
+<details>
+<summary><h2>Bootcamp Linux do Zero</h2>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-CA2136?style=flat&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+</summary>
+
+* Prepare-se Para a Jornada
+  - Conheça as Oportunidades da DIO
+  - Seja Protagonista neste Bootcamp
+  - Introdução ao Desenvolvimento Moderno de Software
+  - Trabalhando em Equipes Ágeis
+  - Introdução à Programação e Pensamento Computacional
+  - Como Entregar seu Desafio de Projeto
+  - <a href="https://github.com/caiojuvino/dio-primeiro-repositorio-compartilhar-progresso">Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso</a>
+  - Linux do Zero | Aula Inaugural
+* Primeiros Passos com o Sistema Operacional Linux
+  - Introdução ao Sistema Operacional Linux
+  - Instalando o Linux
+  - Acesso Remoto a Máquinas Linux
+  - Manipulando Arquivos no Linux
+  - Gerenciando Usuários no Linux
+  - Gerenciamento de Pacotes Linux
+  - Gerenciamento de Discos Linux
+  - Copiando Arquivos e Manipulando Processos
+  - <a href="https://github.com/caiojuvino/dio-linux-iac-usuarios">Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões</a>
+* Configurando Servidores Linux e Introdução Ao Docker
+  - Servidores de Arquivos com Linux
+  - Criando um Servidor Web com Linux
+  - Servidor de Banco de Dados com Linux
+  - <a href="https://github.com/caiojuvino/dio-linux-iac-servidor">Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
+  - <a href="https://github.com/caiojuvino/dio-linux-microservicos">Docker: Utilização Prática no Cenário de Microsserviços
+  - DevOps: Tudo o que você precisa saber
+* Fortalecendo Seu Perfil Profissional
+  - Deixando Seu LinkedIn Atrativo
+  - Turbine Seu Currículo na DIO
+  - Transformando seu Conhecimento em Artigos Técnicos
+  - Se Preparando Para Uma Entrevista
+</details>
